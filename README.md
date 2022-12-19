@@ -8,7 +8,7 @@
 
 <h4>Deploy do Projeto:</h4>
 <a href="https://kasvrol.github.io/temporizador-em-react/">
-<p>postado aqui.</p>
+<p>Temporizador em React</p>
 </a>
 
 <h3>Contato:</h3>
