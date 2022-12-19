@@ -3,7 +3,7 @@
 <h3>Sobre:</h3>
 <p style="line-height:10 px;"> O temporizador foi criado em React com o uso da biblioteca Tailwind para a estilização, o objetivo maior desse projeto é ter a lógica de um temporizador (a principio de um minuto) salva em um repositório para futuros usos em sistemas maiores.</p>
 
-<h3>Print do Front:</h3>
+<h3>Front:</h3>
 <img  src="https://github.com/kasvrol/temporizador-em-react/blob/main/public/gif_Trim.gif"/>
 
 <h4>Deploy do Projeto:</h4>
