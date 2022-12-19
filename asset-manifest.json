@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temporizador-em-react/static/css/main.c2edc252.css",
+    "main.js": "/temporizador-em-react/static/js/main.d85d2444.js",
+    "index.html": "/temporizador-em-react/index.html",
+    "main.c2edc252.css.map": "/temporizador-em-react/static/css/main.c2edc252.css.map",
+    "main.d85d2444.js.map": "/temporizador-em-react/static/js/main.d85d2444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2edc252.css",
+    "static/js/main.d85d2444.js"
+  ]
+}
